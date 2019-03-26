@@ -1,0 +1,9 @@
+1c1,2
+< hello
+---
+> Background job started: [1]	#PID#	delayed_echo hello 2 & 
+> Background job started: [2]	#PID#	echo world & 
+2a4,6
+> Completed: 	[2]	#PID#	echo world & 
+> hello
+> Completed: 	[1]	#PID#	delayed_echo hello 2 & 

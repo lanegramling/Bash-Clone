@@ -1,0 +1,32 @@
+==34200== Memcheck, a memory error detector
+==34200== Copyright (C) 2002-2013, and GNU GPL'd, by Julian Seward et al.
+==34200== Using Valgrind-3.9.0 and LibVEX; rerun with -h for copyright info
+==34200== Command: /home/l423g712/eecs/678/project1/quash/quash
+==34200== 
+==34295== 
+==34295== HEAP SUMMARY:
+==34295==     in use at exit: 0 bytes in 0 blocks
+==34295==   total heap usage: 6 allocs, 6 frees, 17,810 bytes allocated
+==34295== 
+==34295== All heap blocks were freed -- no leaks are possible
+==34295== 
+==34295== For counts of detected and suppressed errors, rerun with: -v
+==34295== ERROR SUMMARY: 0 errors from 0 contexts (suppressed: 2 from 2)
+==34364== 
+==34364== HEAP SUMMARY:
+==34364==     in use at exit: 0 bytes in 0 blocks
+==34364==   total heap usage: 12 allocs, 12 frees, 19,900 bytes allocated
+==34364== 
+==34364== All heap blocks were freed -- no leaks are possible
+==34364== 
+==34364== For counts of detected and suppressed errors, rerun with: -v
+==34364== ERROR SUMMARY: 0 errors from 0 contexts (suppressed: 2 from 2)
+==34200== 
+==34200== HEAP SUMMARY:
+==34200==     in use at exit: 0 bytes in 0 blocks
+==34200==   total heap usage: 33 allocs, 33 frees, 27,288 bytes allocated
+==34200== 
+==34200== All heap blocks were freed -- no leaks are possible
+==34200== 
+==34200== For counts of detected and suppressed errors, rerun with: -v
+==34200== ERROR SUMMARY: 0 errors from 0 contexts (suppressed: 2 from 2)

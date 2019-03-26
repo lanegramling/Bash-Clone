@@ -1,0 +1,43 @@
+==34165== Memcheck, a memory error detector
+==34165== Copyright (C) 2002-2013, and GNU GPL'd, by Julian Seward et al.
+==34165== Using Valgrind-3.9.0 and LibVEX; rerun with -h for copyright info
+==34165== Command: /home/l423g712/eecs/678/project1/quash/quash
+==34165== 
+==34260== 
+==34260== HEAP SUMMARY:
+==34260==     in use at exit: 0 bytes in 0 blocks
+==34260==   total heap usage: 6 allocs, 6 frees, 17,810 bytes allocated
+==34260== 
+==34260== All heap blocks were freed -- no leaks are possible
+==34260== 
+==34260== For counts of detected and suppressed errors, rerun with: -v
+==34260== ERROR SUMMARY: 0 errors from 0 contexts (suppressed: 2 from 2)
+==34279== 
+==34279== HEAP SUMMARY:
+==34279==     in use at exit: 0 bytes in 0 blocks
+==34279==   total heap usage: 12 allocs, 12 frees, 19,902 bytes allocated
+==34279== 
+==34279== All heap blocks were freed -- no leaks are possible
+==34279== 
+==34279== For counts of detected and suppressed errors, rerun with: -v
+==34279== ERROR SUMMARY: 0 errors from 0 contexts (suppressed: 2 from 2)
+==34335== 
+==34335== HEAP SUMMARY:
+==34335==     in use at exit: 0 bytes in 0 blocks
+==34335==   total heap usage: 18 allocs, 18 frees, 22,009 bytes allocated
+==34335== 
+==34335== All heap blocks were freed -- no leaks are possible
+==34335== 
+==34335== For counts of detected and suppressed errors, rerun with: -v
+==34335== ERROR SUMMARY: 0 errors from 0 contexts (suppressed: 2 from 2)
+cat: ./out.txt: No such file or directory
+diff: ./out.txt: No such file or directory
+==34165== 
+==34165== HEAP SUMMARY:
+==34165==     in use at exit: 0 bytes in 0 blocks
+==34165==   total heap usage: 42 allocs, 42 frees, 29,516 bytes allocated
+==34165== 
+==34165== All heap blocks were freed -- no leaks are possible
+==34165== 
+==34165== For counts of detected and suppressed errors, rerun with: -v
+==34165== ERROR SUMMARY: 0 errors from 0 contexts (suppressed: 2 from 2)
